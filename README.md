@@ -6,7 +6,9 @@
   <a href= "https://gmail.com/@shaigindin"><img src="https://img.icons8.com/dusk/48/000000/medium-new.png"/></a>
   <a href= "https://www.youtube.com/channel/UCj_aGuryykHGnmFXHa5kzLQ"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a>
 </p>
+<p>
 
+  <p>
 
     <img src="https://views.whatilearened.today/views/github/kaizoku-oh/views.svg"/>
     <a href="https://github.com/kaizoku-oh/"><img src="https://img.shields.io/github/followers/kaizoku-oh?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
