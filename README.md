@@ -1,13 +1,13 @@
 <p align="center" ><img src="https://raw.githubusercontent.com/shaigindin/shaigindin/main/intro2.jpeg" ></p>
 
 
-
+<p style="font-family:Courier New">
 - 📚 I’m currently an undergraduate student in the Hebrew University of Jerusalem.
 - 🔎 I’m looking for an intern / student position
 - 🎼 Languages: C++, Python, Java 
 - 🐠 I don’t believe in astrology; I’m a Pisces and we’re skeptical.
 - 🌈 Life Moto: If you think you are too small to make a difference, try sleeping with a mosquito. 
-
+</p>
 
 
 <h3 align="center">Talk to me</h3>
