@@ -1,4 +1,4 @@
-<p align="center" ><img src="https://raw.githubusercontent.com/kaizoku-oh/kaizoku-oh/master/static/myintro.gif"/></p>
+<p align="center" ><img src="https://raw.githubusercontent.com/shaigindin/shaigindin/main/intro.jpeg"/></p>
 
 <h3 align="center">Talk to me</h3>
 <p align="center">
