@@ -8,7 +8,6 @@
 </p>
 <p>
 
-  <p>
 
     <img src="https://views.whatilearened.today/views/github/kaizoku-oh/views.svg"/>
     <a href="https://github.com/kaizoku-oh/"><img src="https://img.shields.io/github/followers/kaizoku-oh?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
