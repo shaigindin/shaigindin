@@ -1,8 +1,7 @@
 <p align="center" ><img src="https://raw.githubusercontent.com/shaigindin/shaigindin/main/intro2.jpeg" ></p>
 
 
-<p style = "font-family:courier,arial,helvetica;">
-- 📚 I’m currently an undergraduate student in the Hebrew University of Jerusalem.</p>
+- 📚 I’m currently an undergraduate student in the Hebrew University of Jerusalem.
 - 🔎 I’m looking for an intern / student position
 - 🎼 Languages: C++, Python, Java 
 - 🐠 I don’t believe in astrology; I’m a Pisces and we’re skeptical.
