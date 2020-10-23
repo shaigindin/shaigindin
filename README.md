@@ -1,7 +1,7 @@
 <p align="center" ><img src="https://raw.githubusercontent.com/shaigindin/shaigindin/main/intro2.jpeg" ></p>
 
 
-<p style="font-family:Courier New">
+<p style="font-family:Courier">
 - 📚 I’m currently an undergraduate student in the Hebrew University of Jerusalem.
 - 🔎 I’m looking for an intern / student position
 - 🎼 Languages: C++, Python, Java 
