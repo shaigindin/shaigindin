@@ -1,11 +1,4 @@
-<p align="center" ><img src="https://raw.githubusercontent.com/shaigindin/shaigindin/main/intro.jpeg"/></p>
-
-<h3 align="center">Talk to me</h3>
-<p align="center">
-  <a href= "https://www.linkedin.com/in/shai-gindin-0b1517162/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
-  <a href= "mailto: shaigindin@gmail.com"><img src="https://img.icons8.com/dusk/48/000000/medium-new.png"/></a>
-  <a href= "https://www.youtube.com/watch?v=CciySoyQc4s"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a>
-</p>
+<p align="center" ><img src="https://raw.githubusercontent.com/shaigindin/shaigindin/main/intro.jpeg" height="100"></p>
 
 
 
@@ -14,3 +7,12 @@
 - 🎼 Languages: C++, Python, Java 
 - 🐠 I don’t believe in astrology; I’m a Pisces and we’re skeptical.
 - 🌈 Life Moto: If you think you are too small to make a difference, try sleeping with a mosquito. 
+
+
+
+<h3 align="center">Talk to me</h3>
+<p align="center">
+  <a href= "https://www.linkedin.com/in/shai-gindin-0b1517162/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
+  <a href= "mailto: shaigindin@gmail.com"><img src="https://img.icons8.com/dusk/48/000000/medium-new.png"/></a>
+  <a href= "https://www.youtube.com/watch?v=CciySoyQc4s"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a>
+</p>
